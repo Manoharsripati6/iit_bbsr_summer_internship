@@ -1,0 +1,41 @@
+DATA SUMMARY REPORT
+========================================
+
+Total Videos Collected: 40
+Total Unique Creators: 36
+
+Most Common Keywords:
+- video: 18
+- ai: 15
+- videos: 14
+- sports: 11
+- youtube: 8
+- free: 8
+- generator: 7
+- robotics: 6
+- semiconductor: 6
+- watch: 5
+
+Average Engagement: 249.12
+
+Top Performing Posts:
+- Watch NBC Sports: Clips, Videos, Highlights, Shows & More - NBC Sports
+  Engagement: 350
+  URL: https://www.nbcsports.com/watch
+
+- Watch Nine part series on IC manufacturing including MEMS ... - Vimeo
+  Engagement: 345
+  URL: https://vimeo.com/ondemand/siliconrun
+
+- The Chemistry of Semiconductors - Semiconductor Industry Association
+  Engagement: 340
+  URL: https://www.semiconductors.org/the-chemistry-of-semiconductors/
+
+- Top 30 Robotics YouTube Channels 2026 | YouTube Statistics | tubics
+  Engagement: 335
+  URL: https://www.tubics.com/rankings/industries/robotics
+
+- Gemini Omni - Create & edit videos as easy as having a conversation
+  Engagement: 335
+  URL: https://gemini.google/overview/video-generation/
+
