@@ -1,6 +1,6 @@
 # IIT Bhubaneswar Summer Internship Assignment
 
-This repository contains solutions for the IIT Bhubaneswar Summer Internship tasks implemented using Python 3.10+.
+This repository contains solutions for the IIT Bhubaneswar Summer Internship tasks implemented using Python.
 
 The project covers:
 - Python fundamentals
